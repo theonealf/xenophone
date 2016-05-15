@@ -1,0 +1,138 @@
+html{margin-top:0;}
+body {
+    background-color: #7f1f4d;
+    
+}
+
+h2{
+    font-size:1rem;
+ }
+.mainbgcolor {
+    background-color: #7f1f4d;
+}
+
+.secondbgcolor {
+    background-color: #fff;
+}
+
+.mainlogo {
+    text-align: center;
+    vertical-align: central;
+    margin-top: 10vw;
+}
+.mainlogo:hover {
+   opacity:0.5;
+}
+.corverimagebox{
+    text-align:center;   
+}
+.topbar h1{
+	font-size:1.5rem;
+  color:#999;
+  
+}
+.logobox {
+    margin-bottom:1.0rem;
+    
+}
+.toptitle h2{
+    margin:0;
+    font-weight:bold;     
+    padding:10px 2px;
+}
+.subnavbar {
+    height: 20vw;
+    text-align: center;
+    width: 200px;
+    background-image: url("../images/gittarist.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center;
+}
+
+.height-100vh {
+    height: 300px;
+}
+
+.center-aligned {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    position: relative;
+     width:36vw;
+       display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {    
+  text-align:center;
+    color: #fff;
+    position: absolute;
+    top: 8rem;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   
+}
+.text a{
+    color:#fff;
+    margin-left:0.5rem;
+    margin-right:0.5rem;
+}
+.topbar{
+    margin-top:3rem;
+    margin-bottom:1rem;
+}
+.toptitle{
+    border-top:1px solid #000;
+     border-bottom:1px solid #000;
+     margin-bottom:2rem;
+}
+
+.maindetailbox h1 {
+    font-size:1.8rem;
+}
+.maindetailbox .button{
+    margin-bottom:4rem;
+}
+.pundbox h2{
+    font-size:1.8rem;
+    color:#999;
+}
+.qtybox{margin-top:2rem; margin-bottom:1rem;}
+.qtybox label{
+    float:left;
+    margin-right:0.5rem;
+    margin-top:0.5rem;
+    font-weight:bold;
+}
+.qtydrp{width:40px;}
+.tabs{
+    border-top:0px;
+    border-right:0px;
+    border-left:0px;
+}
+.tabs-title a{
+    font-size:1.1rem;
+    color:#000;
+}
+.tabs-content{
+    margin-bottom:5rem;
+}
+.tabs-content h2{
+    font-weight:bold;   
+}
+.tabs-content h3{
+    font-size:1rem;
+    margin-bottom:0px;
+}
+.footer {
+    margin-top:5rem;
+}
+.redcolor{
+    color:#9c0d0d;
+}
